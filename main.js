@@ -43,7 +43,7 @@ if (cantidadPrendas > 0){
         }
         else if (tipoPrenda == 'P'){
             let id = idI;
-            let marca = prompt('Ingrese el nombre del modelo:');
+            let marca = prompt('Ingrese el nombre del modeloo:');
             let talle = parseInt(prompt('Ingrese un talle:'));
             let color = prompt('Ingrese el color:');
             let tipo = tipoPrenda
